@@ -12,3 +12,8 @@ Suppose we have a list of countries, for each of which a list of significant cit
 A key feature of this solution will be to dynamically create Checkbox widgets on each list entry inside a LinearLayout container.
 # Deleting a record from the SQLite database in Xamarin.Android (project SQLiteDelRow)
 # An example of intercepting screen on / off events in Xamarin.Android (project ScreenReceiver)
+# An example of creating a reminder service on Xamarin.Android with saving a list of tasks in the SQLite database and specifying your own notification melody (Alerts project).
+The following tools were used in the project:
+* Alert manager (alarm clock)
+* Broadcast Receivers
+* SQLite
